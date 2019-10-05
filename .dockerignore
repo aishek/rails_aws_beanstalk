@@ -1,0 +1,12 @@
+/log/*
+/tmp/*
+/node_modules/*
+/storage/*
+/public/packs/*
+
+/.dockerignore
+/Dockerfile
+/docker-compose.yml
+/Dockerrun.aws.json
+
+/.overmind.sock
